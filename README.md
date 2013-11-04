@@ -1,6 +1,6 @@
 tarea7
 ======
-Integrantes:
-Camilo Rivera
+Integrantes:\n
+Camilo Rivera\n
 Daniel Lozano Gómez
 
